@@ -1,0 +1,15 @@
+C:\Users\felipe.mauri\Documents\Projetos Felipe\Exercício1_NewCentury\Exercício1_NewCentury\bin\Debug\net6.0\Exercício1_NewCentury.exe
+C:\Users\felipe.mauri\Documents\Projetos Felipe\Exercício1_NewCentury\Exercício1_NewCentury\bin\Debug\net6.0\Exercício1_NewCentury.deps.json
+C:\Users\felipe.mauri\Documents\Projetos Felipe\Exercício1_NewCentury\Exercício1_NewCentury\bin\Debug\net6.0\Exercício1_NewCentury.runtimeconfig.json
+C:\Users\felipe.mauri\Documents\Projetos Felipe\Exercício1_NewCentury\Exercício1_NewCentury\bin\Debug\net6.0\Exercício1_NewCentury.dll
+C:\Users\felipe.mauri\Documents\Projetos Felipe\Exercício1_NewCentury\Exercício1_NewCentury\bin\Debug\net6.0\Exercício1_NewCentury.pdb
+C:\Users\felipe.mauri\Documents\Projetos Felipe\Exercício1_NewCentury\Exercício1_NewCentury\obj\Debug\net6.0\Exercício1_NewCentury.csproj.AssemblyReference.cache
+C:\Users\felipe.mauri\Documents\Projetos Felipe\Exercício1_NewCentury\Exercício1_NewCentury\obj\Debug\net6.0\Exercício1_NewCentury.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felipe.mauri\Documents\Projetos Felipe\Exercício1_NewCentury\Exercício1_NewCentury\obj\Debug\net6.0\Exercício1_NewCentury.AssemblyInfoInputs.cache
+C:\Users\felipe.mauri\Documents\Projetos Felipe\Exercício1_NewCentury\Exercício1_NewCentury\obj\Debug\net6.0\Exercício1_NewCentury.AssemblyInfo.cs
+C:\Users\felipe.mauri\Documents\Projetos Felipe\Exercício1_NewCentury\Exercício1_NewCentury\obj\Debug\net6.0\Exercício1_NewCentury.csproj.CoreCompileInputs.cache
+C:\Users\felipe.mauri\Documents\Projetos Felipe\Exercício1_NewCentury\Exercício1_NewCentury\obj\Debug\net6.0\Exercício1_NewCentury.dll
+C:\Users\felipe.mauri\Documents\Projetos Felipe\Exercício1_NewCentury\Exercício1_NewCentury\obj\Debug\net6.0\refint\Exercício1_NewCentury.dll
+C:\Users\felipe.mauri\Documents\Projetos Felipe\Exercício1_NewCentury\Exercício1_NewCentury\obj\Debug\net6.0\Exercício1_NewCentury.pdb
+C:\Users\felipe.mauri\Documents\Projetos Felipe\Exercício1_NewCentury\Exercício1_NewCentury\obj\Debug\net6.0\Exercício1_NewCentury.genruntimeconfig.cache
+C:\Users\felipe.mauri\Documents\Projetos Felipe\Exercício1_NewCentury\Exercício1_NewCentury\obj\Debug\net6.0\ref\Exercício1_NewCentury.dll
